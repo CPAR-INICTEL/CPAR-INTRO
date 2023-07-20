@@ -4,4 +4,4 @@ Curso introductorio de computación paralela
 ## Temario
 - Git y Github
 - Entorno Devcloud
-- Ejercicio de Aplicación: MandelBrot
+- Ejercicio de Aplicación: Calculando el Speedup
